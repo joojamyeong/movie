@@ -1,15 +1,11 @@
 # 🎬 MovieBox - 영화와 TV 프로그램 탐색기 🍿
 
-![MovieBox 로고](./assets/moviebox-logo.png)
 
 **MovieBox**는 영화와 TV 프로그램 정보를 탐색할 수 있는 간단한 웹 애플리케이션입니다.  
 이 프로젝트는 React와 API 통신을 활용한 데이터 중심의 웹 애플리케이션 개발 경험을 쌓기 위해 제작되었습니다.  
 🎥 여러분의 "오늘 뭐 볼까?" 고민을 MovieBox와 함께 해결해 보세요!  
 
 ---
-
-## 🌐 데모 바로가기  
-👉 [MovieBox 데모](https://your-demo-link.com)  
 
 ### **사용 예제**  
 - 🔍 **영화 검색**: 검색창에 "Inception"을 입력해 보세요.  
@@ -33,14 +29,6 @@ MovieBox는 TMDB API를 기반으로 영화와 TV 프로그램 정보를 제공�
 - API 데이터 연동을 통해 비동기 처리에 대한 이해가 깊어졌습니다.
 - 사용자 친화적인 인터페이스를 구현하며 **CSS 설계의 중요성**을 배웠습니다.
 - 실시간 데이터 처리를 다루며 React Query의 효율성을 경험할 수 있었습니다.
-
----
-
-## 📸 주요 화면
-
-| 홈 화면 | 디테일 페이지 | TV 프로그램 |
-|---------|---------------|-------------|
-| ![홈 화면]([./screenshots/home.png](https://github.com/user-attachments/assets/d8bcd7dd-9a37-4b67-8640-1528d271783f)) | ![디테일 페이지](./screenshots/detail.png) | ![TV 프로그램](./screenshots/tv.png) |
 
 ---
 
